@@ -1,4 +1,4 @@
-﻿Build started 12/6/2015 5:48:32 PM.
+﻿Build started 12/6/2015 6:36:56 PM.
      1>Project "C:\Users\Peter\Desktop\School\Brock University\Year 3\Semester 1\COSC 3P98 - Computer Graphics\Assignment 3\Template-3P98-2010\Template-3P98-2010\Template-3P98-2010\Template-3P98-2010.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\Template-3P98-2010.unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -31,18 +31,30 @@
      1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(136): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
      1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(136): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
      1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(136): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
-     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(136): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
-     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(136): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
-     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(136): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
-     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(324): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
-     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(324): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
-     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(324): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
-     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(325): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
-     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(325): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
-     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(325): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
-     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(328): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
-     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(328): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
-     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(328): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(137): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(137): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(137): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(137): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(137): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(138): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(138): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(138): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(138): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(138): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(139): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(139): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(139): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(139): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(139): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(322): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(322): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(322): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(323): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(323): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(323): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(326): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(326): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(326): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
      1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(345): warning C4101: 'i' : unreferenced local variable
      1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(346): warning C4101: 'tile' : unreferenced local variable
      1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(345): warning C4101: 'j' : unreferenced local variable
@@ -67,8 +79,8 @@
      1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(691): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
      1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(729): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
      1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(730): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(827): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(830): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(838): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(841): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
      1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(71): warning C4716: 'newCoordinate' : must return a value
      1>c:\users\peter\desktop\school\brock university\year 3\semester 1\cosc 3p98 - computer graphics\rotate2.c(457): warning C4716: 'newColour' : must return a value
        ResourceCompile:
@@ -98,4 +110,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:03.12
+Time Elapsed 00:00:03.75
