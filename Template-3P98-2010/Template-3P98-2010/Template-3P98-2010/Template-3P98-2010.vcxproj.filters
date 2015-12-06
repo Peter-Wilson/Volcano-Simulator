@@ -28,6 +28,12 @@
     <None Include="img.tif">
       <Filter>Source Files</Filter>
     </None>
+    <None Include="..\texture_of_lava.png">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\ground_texture.png">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\rotate2.c">

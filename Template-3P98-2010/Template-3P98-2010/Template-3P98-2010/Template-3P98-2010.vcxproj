@@ -94,6 +94,8 @@ copy "$(ProjectDir)FreeImage\freeimaged.dll" "$(OutDir)"</Command>
     <ResourceCompile Include="Template-3P98-2010.rc" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\ground_texture.png" />
+    <None Include="..\texture_of_lava.png" />
     <None Include="img.tif" />
   </ItemGroup>
   <ItemGroup>
