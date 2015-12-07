@@ -36,7 +36,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\rotate2.c">
+    <ClCompile Include="rotate2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

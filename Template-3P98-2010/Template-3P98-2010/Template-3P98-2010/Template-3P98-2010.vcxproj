@@ -99,7 +99,7 @@ copy "$(ProjectDir)FreeImage\freeimaged.dll" "$(OutDir)"</Command>
     <None Include="img.tif" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\rotate2.c" />
+    <ClCompile Include="rotate2.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
