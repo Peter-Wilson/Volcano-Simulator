@@ -1,31 +1,9 @@
 
-                          .'  .
-                         .'.'.' .
-                        .`.'.`'.
-                       ..'..'.`'
-                       `,'....`
-                      `' ..'`.
-                     `'``''`.
-                     .'.``'`
-                  .'`..'''`.
-                    ````.'`
-                  xl""``""lx
-                 X8Xxx..xxX8X
-                 8X8bdX8bd8X8
-                dX8Xbd8XbdX8Xb
-               dX8Xbd8X8XbdX8Xb
-              dX8Xbd8X8X8XbdX8Xb
-            .dX8Xbd8X8X8X8XbdX8Xb.
-          .d8X8Xbd8X8X8X8X8XbdX8X8b.
-      _.-dX8X8Xbd8X8X8X8X8X8XdbX8X8Xb-._
-   .-d8X8X8X8bdX8X8X8X8X8X8X8X8db8X8X8X8b-.
-.-d8X8X8X8X8bdX8X8X8X8X8X8X8X8X8db8X8X8-RG-b-.
-
-
 Welcome to PETE'S VOLCANO SIMULATOR 3000
 =========================================
                 COMMANDS
 =========================================
+
 Shooting Modes:
 
         Space bar = turn on constant stream of particles
