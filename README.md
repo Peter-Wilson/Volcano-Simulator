@@ -7,7 +7,7 @@ Shooting Modes:
 
         Space bar = turn on constant stream of particles
         F (press) = Shoot one particle
-        F (hold) = Rapid Fire![volcano.png](https://bitbucket.org/repo/EdA8Rx/images/483971702-volcano.png)
+        F (hold) = Rapid Fire
         E = Spray Mode
         M = Multiparticle Mode
         N = Random Spin
@@ -61,3 +61,6 @@ OPTIONAL FUNCTONALITY IMPLEMENTED:
 7. ADD SOUND FX
 	- sound played when particle shot out of volcano
 	- note: I created my own sound effect!
+
+
+![volcano.png](https://bitbucket.org/repo/EdA8Rx/images/483971702-volcano.png)
