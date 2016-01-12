@@ -1,4 +1,3 @@
-
 Welcome to PETE'S VOLCANO SIMULATOR 3000
 =========================================
                 COMMANDS
@@ -8,7 +7,7 @@ Shooting Modes:
 
         Space bar = turn on constant stream of particles
         F (press) = Shoot one particle
-        F (hold) = Rapid Fire
+        F (hold) = Rapid Fire![volcano.png](https://bitbucket.org/repo/EdA8Rx/images/483971702-volcano.png)
         E = Spray Mode
         M = Multiparticle Mode
         N = Random Spin
